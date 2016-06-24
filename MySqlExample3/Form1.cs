@@ -29,6 +29,7 @@ namespace MySqlExample3
             MD5 md5 = new MD5();
             this.textBox1.Text=md5.MD5Encrypt("server=localhost;user id=root;password=wang943698.com;persistsecurityinfo=True;database=world", "wsqwzy22");
             
+            //CodeMAP
         }
     }
 }
